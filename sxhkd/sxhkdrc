@@ -8,7 +8,7 @@ super + Return
 
 # program launcher
 super + @space
-	dmenu_run -fn "Fira Sans 14" -nb "#FFFFFF" -sb "#FFFFFF" -nf "#000080" -sf "#00BB00"
+	dmenu_run -fn "Fira Sans 14" -nb "#FAF0E6" -sb "#FAF0E6" -nf "#000080" -sf "#00BB00"
 
 # make sxhkd reload its configuration files:
 super + Escape

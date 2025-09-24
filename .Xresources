@@ -5,39 +5,28 @@ Xft.hinting: 1
 Xft.antialias: 1
 Xft.rgba: rgb
 
-st.font = Fira Mono:pixelsize=16
-st*foreground: #eff0eb
-st*background: #282a36
-st*cursorColor: #97979b
+st.font: Fira Mono Nerd Font:pixelsize=16
+st.borderpx: 10
 
-! Black + DarkGrey
-st*color0: #282a36
-st*color8: #686868
 
-! DarkRed + Red
-st*color1: #ff5c57
-st*color9: #ff5c57
+! Base2Tone Garden Light (16-color Xresources)
 
-! DarkGreen + Green
-st*color2: #5af78e
-st*color10:#5af78e
+*background: #fbfaf8
+*foreground: #1c8217
 
-! DarkYellow + Yellow
-st*color3: #f3f99d
-st*color11:#f3f99d
-
-! DarkBlue + Blue
-st*color4: #57c7ff
-st*color12:#57c7ff
-
-! DarkMagenta + Magenta
-st*color5: #ff6ac1
-st*color13:#ff6ac1
-
-! DarkCyan + Cyan (both not tango)
-st*color6: #9aedfe
-st*color14:#9aedfe
-
-! LightGrey + White
-st*color7: #eff0eb
-st*color15:#f1f1f0
+*color0:  #1e1f1e
+*color1:  #bd5d0f
+*color2:  #25931f
+*color3:  #c96a1d
+*color4:  #505350
+*color5:  #3fac39
+*color6:  #978678
+*color7:  #c96a1d
+*color8:  #5d605c
+*color9:  #4cb946
+*color10: #b7aa9f
+*color11: #dd843c
+*color12: #828782
+*color13: #90d98c
+*color14: #dbd0c7
+*color15: #dba070
